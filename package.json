@@ -1,0 +1,23 @@
+{
+  "name": "ts-node-crawler",
+  "version": "1.0.0",
+  "description": "A crawler lib written by typescript",
+  "author": "grepug",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cheerio": "^0.22.0",
+    "lodash": "^4.17.4",
+    "ts-node": "^3.0.2",
+    "typescript": "^2.2.2"
+  },
+  "dependencies": {
+    "lodash": "^4.17.4",
+    "request": "^2.81.0",
+    "request-promise": "^4.2.0"
+  }
+}
